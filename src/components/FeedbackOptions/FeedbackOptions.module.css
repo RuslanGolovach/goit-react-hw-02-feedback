@@ -1,0 +1,20 @@
+.ListBtn {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-left: -10px;
+}
+.ListItem {
+  margin-left: 10px;
+}
+.Button {
+  padding: 5px 20px;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  background-color: rgba(233, 229, 31, 0.856);
+  color: rgba(55, 7, 83, 0.699);
+  cursor: pointer;
+}
